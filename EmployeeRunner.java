@@ -58,7 +58,7 @@ public class EmployeeRunner {
        else{
            EmployeeRunner.printElements(clerk);
        }
-        System.out.println(m1.equals(c2));
+        System.out.println(m1.equals(c1));
 
     }
         public static void  printElements(ArrayList<Employee> employee) {
@@ -70,4 +70,5 @@ public class EmployeeRunner {
 
             }
         }
+
 
